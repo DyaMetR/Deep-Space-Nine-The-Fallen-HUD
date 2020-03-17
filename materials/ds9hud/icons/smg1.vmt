@@ -1,0 +1,13 @@
+"UnlitGeneric"
+
+{
+
+	"$baseTexture" "ds9hud/icons/smg1"
+
+	"$vertexalpha" "1"
+
+	"$vertexcolor" "1"
+
+	"$additive" "1"
+
+}

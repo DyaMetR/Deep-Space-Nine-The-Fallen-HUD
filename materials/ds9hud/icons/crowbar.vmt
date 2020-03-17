@@ -1,0 +1,13 @@
+"UnlitGeneric"
+
+{
+
+	"$baseTexture" "ds9hud/icons/crowbar"
+
+	"$vertexalpha" "1"
+
+	"$vertexcolor" "1"
+
+	"$additive" "1"
+
+}

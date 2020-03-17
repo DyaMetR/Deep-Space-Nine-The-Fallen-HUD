@@ -1,0 +1,13 @@
+"UnlitGeneric"
+
+{
+
+	"$baseTexture" "ds9hud/icons/crossbow"
+
+	"$vertexalpha" "1"
+
+	"$vertexcolor" "1"
+
+	"$additive" "1"
+
+}
